@@ -5,15 +5,15 @@
   "defaultTitle": "MSMC |",
   "icon": "/faction-logos/msmc.svg",
   "header": {
-    "planet": "Heiligtum-6 'Deep Blue'",
+    "planet": "Dula-3 'Dirty Marble'",
     "year": "5017u",
-    "system": "Heiligtum",
-    "gate": "Rào Cỏ",
-    "ring": "Annamite",
+    "system": "Dula",
+    "gate": "Rainier",
+    "ring": "Cascade",
     "headerTitle": "Mirrorsmoke",
     "headerSubtitle": "Mercenary Company",
-    "subheaderTitle": "Contract Work",
-    "subheaderSubtitle": "Sierra-Whiskey-Alpha-Golf"
+    "subheaderTitle": "Onboarding Program",
+    "subheaderSubtitle": "Papa-Echo-Alpha-Kilo"
   },
   "pilotSpecialInfo": {}
 }
