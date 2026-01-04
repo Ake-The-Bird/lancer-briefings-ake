@@ -140,12 +140,16 @@ import nrfawData from 'lancer-nrfaw-data'
 import longrimData from 'lancer-longrim-data'
 
 import wallflowerData from '@/assets/LCPs/wallflower-data-2.0.5'
+/*Additional LCPS Below*/
+import dustgraveData from '@/assets/LCPs/dustgrave-data-1.1'
 /*Append the datasets within computed if your LCP has new items.
 EX:
 pilotGear() {
   return [...lancerData.pilot_gear, ...wallflowerData.pilot_gear]
 },
 */
+
+
 
 import PilotModal from '@/components/modals/PilotModal.vue'
 import MechModal from '@/components/modals/MechModal.vue'
